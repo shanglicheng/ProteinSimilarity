@@ -1,3 +1,3 @@
 # ProteinSimilarity
 
-The perl software can calculate the similarity of proteins based on PDB coordinates.
+The perl software can calculate the similarity of proteins based on PDB files.
